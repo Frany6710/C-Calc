@@ -15,5 +15,5 @@ C calc es una calculadora hecha en C# y Visual basic
 # Capturas de pantalla
 
 <p align="center">
-<img src="./screenshot.PNG" width="800px">
+<img src="./screenshot.PNG" width="500px">
 </p>
